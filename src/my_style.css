@@ -4,5 +4,11 @@
    
 }
 img{
-    box-decoration-break: slice;
+    
+}
+#caption{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    padding: 4.5%;
 }
