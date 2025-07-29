@@ -1,10 +1,14 @@
 
-img{
-    
-}
 #caption{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
     font-size: small;
     padding: 4.5%;
+}
+p{
+    color: rgb(74, 7, 7);
+}
+
+#name{
+    color: rgb(16, 7, 23);
 }
