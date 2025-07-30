@@ -1,4 +1,7 @@
 
+body{
+    margin: 30px;
+}
 #caption{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
@@ -11,4 +14,17 @@ p{
 
 #name{
     color: rgb(16, 7, 23);
+    
+}
+
+.author{
+    text-decoration: none;
+    color:black;
+    font-weight: 700;
+}
+.click{
+    
+}
+.reaction {
+  margin-right: 5px;
 }
