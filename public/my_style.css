@@ -2,6 +2,10 @@
 body{
     margin: 30px;
 }
+*{
+    margin: 2px;
+    padding: 1px;
+}
 #caption{
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
@@ -26,5 +30,27 @@ p{
     
 }
 .reaction {
+  margin-right: 5px;
+}
+
+
+.comment-section {
+  margin-top: 40px;
+}
+#comment-input {
+  width: 100%;
+  height: 60px;
+}
+#comments-container {
+  margin-top: 20px;
+}
+.comment {
+  border-top: 1px solid #ccc;
+  padding: 10px 0;
+}
+.pagination {
+  margin-top: 20px;
+}
+.page-btn {
   margin-right: 5px;
 }
