@@ -54,3 +54,11 @@ p{
 .page-btn {
   margin-right: 5px;
 }
+
+
+.reactions button.active {
+  background-color: lightblue;
+}
+#bio{
+  
+}
